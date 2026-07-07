@@ -1,0 +1,28 @@
+{
+  "identifier" : "Scaleup",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "scaleup_pro",
+      "localizations" : [
+        {
+          "description" : "Weight trend graphs with vet-recommended range overlays",
+          "displayName" : "Scaleup Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "scaleup_pro",
+      "referenceName" : "Scaleup Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
